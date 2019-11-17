@@ -1,5 +1,5 @@
 {
-  "name": "preact-cli",
+  "name": "preact-cli-typescript",
   "version": "3.0.0-rc.5",
   "description": "Start building a Preact Progressive Web App in seconds.",
   "repository": "https://github.com/Himujjal/preact-cli",
@@ -39,7 +39,7 @@
     "project",
     "generator"
   ],
-  "author": "Jason Miller <jason@developit.ca> (http://jasonformat.com)",
+  "author": "Himujjal <upadhyayahimujjal@gmail.com>",
   "license": "MIT",
   "bugs": "https://github.com/Himujjal/preact-cli/issues",
   "homepage": "https://github.com/Himujjal/preact-cli",
